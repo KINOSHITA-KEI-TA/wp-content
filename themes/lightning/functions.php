@@ -1,5 +1,5 @@
 <?php
-
+// test
 define( 'LIG_G3_DIR', '_g3' );
 define( 'LIG_G2_DIR', '_g2' );
 
